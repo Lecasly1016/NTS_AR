@@ -1,0 +1,1 @@
+Notre jeu est un jeu en AR. Le but du jeu est de devoir eliminer les oiseaux qui sont de couleurs rouges dans un temps impartit affiche a l'ecran.
